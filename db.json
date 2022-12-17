@@ -1,0 +1,10 @@
+{
+    "users":[
+        {
+        "id" :1,
+        "name": "Andriy",
+        "sirname": "Moskalenko",
+        "balance":1500
+        }
+]
+}

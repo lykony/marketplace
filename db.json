@@ -4,7 +4,13 @@
         "id" :1,
         "name": "Andriy",
         "sirname": "Moskalenko",
-        "balance":1500
+        "balance":1
+        },
+        {
+        "id" :2,
+        "name": "Fedor",
+        "sirname": "Kyivlenko",
+        "balance":999999999
         }
 ]
 }
